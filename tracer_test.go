@@ -1,4 +1,4 @@
-package tracer
+package Tracer
 
 import (
 	"bytes"
